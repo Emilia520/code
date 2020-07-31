@@ -1,1 +1,0 @@
-zip -q -r 'dist.zip' 'config' 'package.json' 'webpack.config.js' 'app' 'public' 'static' 'postcss.config.js'
