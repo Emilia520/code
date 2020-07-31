@@ -1,8 +1,8 @@
 # code
-广东理工学院课室预约系统
-使用了element ui 作为主要的样式布局
-在接口方面接口使用基于koa的egg.js编写
-数据库使用本地的数据库因此启动时，需要在config.local.js和config.prod.js进行相应的修改。
+- 广东理工学院课室预约系统
+- 使用了element ui 作为主要的样式布局
+- 在接口方面接口使用基于koa的egg.js编写
+- 数据库使用本地的数据库因此启动时，需要在config.local.js和config.prod.js进行相应的修改。
 
 # egg-vue-webpack-boilerplate
 
