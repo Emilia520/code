@@ -22,22 +22,22 @@
 - 支持开发环境, 测试环境，正式环境 webpack 编译
 
 ## 2.效果图
-登录界面：<br/>
+登录界面：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207360-c562d3c3-1e85-4bc4-956a-ba5912ca265b.png)
-
-注册界面：<br/>
+<br/>
+注册界面：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207441-be8b6648-e90f-43f6-af56-8b065fc249a8.png)
-
-主页：<br/>
+<br/>
+主页：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207462-e8cce435-c781-45ef-943c-41a75b98a3f2.png)
-
-部分功能图：<br/>
+<br/>
+部分功能图：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207492-54578b06-11bd-4c1f-ae72-e7797c527651.png)
-
-部分功能图：<br/>
+<br/>
+部分功能图：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207511-8998330c-854b-4a5e-8cd4-7eeee3c01c81.png)
-
-部分功能图：<br/>
+<br/>
+部分功能图：<br/><br/>
 ![image](https://user-images.githubusercontent.com/56631770/154207519-9be71a90-df3e-4c60-8cb2-358b8f3385c3.png)
 
 
